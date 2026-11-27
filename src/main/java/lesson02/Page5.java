@@ -8,5 +8,8 @@ public class Page5
         byte a = 1;
         byte b = a;
         System.out.println("b is " + b);
+
+        //int i1 = 42L;
+        float f = 1.2f;
     }
 }
